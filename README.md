@@ -1,4 +1,4 @@
-# Introduction to Web Scraping
+# Introduction to Web Scraping With Python
 
 Short course taught at CEMFI's Undergraduate Summer Internship (2021)
 
